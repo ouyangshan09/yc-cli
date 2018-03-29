@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import CSSModules from 'react-css-modules';
-import Styles from './style.scss';
+import Styles from './{{/componentName}}.scss';
 
 @CSSModules(Styles)
 class {{/componentName}} extends React.PureComponent {
