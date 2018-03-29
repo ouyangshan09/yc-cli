@@ -1,5 +1,5 @@
 {
-  "name": "yc-cli",
+  "name": "oyc-cli",
   "version": "1.0.0",
   "description": "cli tools",
   "main": "index.js",
