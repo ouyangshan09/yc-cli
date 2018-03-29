@@ -1,0 +1,35 @@
+{
+  "name": "yc-cli",
+  "version": "1.0.0",
+  "description": "cli tools",
+  "main": "index.js",
+  "bin": {
+    "yc": "bin/yc.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyangshan09/yc-cli.git"
+  },
+  "keywords": [
+    "js",
+    "cli",
+    "template"
+  ],
+  "author": "Ouyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouyangshan09/yc-cli/issues"
+  },
+  "homepage": "https://github.com/ouyangshan09/yc-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1"
+  }
+}
