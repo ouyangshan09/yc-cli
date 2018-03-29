@@ -1,6 +1,6 @@
 {
   "name": "oyc-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli tools",
   "main": "index.js",
   "bin": {
